@@ -31,8 +31,11 @@ Teachers don't have a platform to teach on.
 ## User story: Find a Teacher, Book a Lesson (Learner)
 Search & find: Learner searches google for learning material. Tutor link appears search results. Learner views the profile and its associated free material (embedded media, etc). Learner uses free tutorial information. User can also buy paid lessons if he has an account.
  
-## User story: Learning from other users for free. 
-User finds other users posting in moments and contacts them to study directly with them. Users message each other for free. 
+## User story: Community Learning (Learner) 
+User finds moments and interacts with them and other users through comments. Users post original moments of learned material or questions. User DMs each other privately.  
+
+## User story: Community Learning (Teacher) 
+Teacher publishes moments as helpful information to learners. Learners can contact the teacher for more (paid, etc).
 
 Learner completes profile to his own degree of satisfaction (u/p, everything else optional). User is automatically added to communities based on each subject of declared interest (Japanese Language, Guitar Building, Life Planning). They can unsubscribe at any time. 
 
