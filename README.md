@@ -9,7 +9,7 @@ Users don't have access to tutors. Current options include static resources like
 
 Teachers don't have a platform to teach on. 
 
-**YouTube:** Users can't ask the video a question. Payment model is through ad revenue.
+**YouTube:** Users can't ask the video a question. Payment model is through ad revenue or third party processors (Patreon, etc).
 
 **StackExchange:** Contributors paid in "points". That's nice but people need money. 
 
