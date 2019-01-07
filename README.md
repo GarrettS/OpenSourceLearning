@@ -54,7 +54,7 @@ User initiates contact with another user by sending a DM (direct message). This 
 * Live video 
 * Video exchange, either using platform tools (secure) or third party embedded video (free embedded YouTube unlisted videos)
 
-All lesson history appears in the Teacher and Learner pages.
+All lesson history appears in the Teacher and Learner pages as message history.
 
 
 **Community**
