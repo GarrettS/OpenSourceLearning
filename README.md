@@ -11,6 +11,8 @@ Teachers don't have a platform to teach on.
 
 **YouTube:** Users can't ask the video a question. Payment model is through ad revenue or third party processors (Patreon, etc).
 
+* Incohesive, disconnected experience. Learners need to 1) find teachers, 2) Arrange for payment (Through the app, Patreon, Paypal, etc), and 3) Do the lesson (email, skype). 
+
 **StackExchange:** Contributors paid in "points". That's nice but people need money. 
 
 **Tutoring Websites:**
@@ -21,7 +23,7 @@ Teachers don't have a platform to teach on.
 
 * Authoritarian governance. Impartial governance is necessary to handle dispute resolution and to ensure fair treatment of all: teachers and learners.
 
-* Incohesive, disconnected experience. Learners need to 1) find teachers, 2) Arrange for payment (Patreon, Paypal, etc), and 3) Do the lesson (email, skype). 
+* Incohesive, disconnected experience. Learners need to 1) find teachers, 2) Do the lesson (email, skype). 
 
 **College:** Inconvenient. Wasteful of time and money.
 
