@@ -2,7 +2,7 @@
 
 
 ## Overview 
-Mentorship platform for teachers and learners where everyone is a student and anyone can be a teacher. Cryptocurrency enabled. Live video and video exchange. Community-driven.
+Community-driven mentorship platform for teachers and learners, where everyone is a student and anyone can be a teacher. Cryptocurrency enabled. 
 
 ## Problems: 
 Users don't have access to tutors. Current options include static resources like YouTube and Stack exchange, and tutor websites like Wyzant, Lessons.com, and Thumbtack.
@@ -62,9 +62,9 @@ All lesson history appears in the Teacher and Learner pages as message history.
 
 
 **Community**
-Users join communities. Each community publishes a feed. Joining a community subscribes the user to that feed. User publishes "moments" to the community feed. Other users can "like" and comment on the moment.  Communities are multilingual and have built-in translation tools (useful for language learning). Communities support publishing audio and video. 
+Users join communities. Each community publishes a feed. Joining a community subscribes the user to that feed. User publishes "moments" with optional media to the community feed. Other users can "like" and comment on the moment.  Communities are multilingual and have built-in translation tools (useful for language learning). 
 
-**Video Storage** Video can be stored on the user's local device (free), our cloud, or a third party service (youtube, etc) (free).
+**Media Storage** Media can be stored on the user's local device (free), our cloud, or a third party service (youtube, etc) (free).
 
 **Profile Pages**
 Users have a profile page with description, lessons offered, subjects studied. 
