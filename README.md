@@ -2,7 +2,7 @@
 
 
 ## Overview 
-Mentorship platform for teachers and learners where everyone is a student and anyone can be a teacher. Bitcoin enabled. Live video and video exchange.
+Mentorship platform for teachers and learners where everyone is a student and anyone can be a teacher. Cryptocurrency enabled. Live video and video exchange.
 
 ## Problems: 
 Users don't have access to tutors. Current options include static resources like YouTube and Stack exchange, and tutor websites like Wyzant, Lessons.com, and Thumbtack.
