@@ -1,4 +1,4 @@
-# New DocumentOSL – Open Source Learning
+#Open Source Learning
 
 
 ## Overview 
