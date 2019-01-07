@@ -1,4 +1,4 @@
-OSL – Open Source Learning
+# New DocumentOSL – Open Source Learning
 
 
 ## Overview 
@@ -9,7 +9,7 @@ Users don't have access to tutors. Current options include static resources like
 
 Teachers don't have a platform to teach on. 
 
-**YouTube:**: Users can't ask the video a question. Payment model is through ad revenue.
+**YouTube:** Users can't ask the video a question. Payment model is through ad revenue.
 
 **StackExchange:** Contributors paid in "points". That's nice but people need money. 
 
@@ -43,7 +43,7 @@ Teacher receives payment after lesson is completed via the app.
 ## User story: Join & Publish to a Community
 Community feeds displayed in the user's "Moments" tab can be filtered by feed and searched. User can read, comment, and create new moments for each community he belongs to.  Moments can have media (images and up to 60s video & audio). Users can purchase storage space to store media on our cloud.
 
-** Lesson Features **
+**Lesson Features**
 
 * Live video 
 * Video exchange, either using platform tools (secure) or third party embedded video (free embedded YouTube unlisted videos)
@@ -51,7 +51,7 @@ Community feeds displayed in the user's "Moments" tab can be filtered by feed an
 All lesson history appears in the Teacher and Learner pages.
 
 
-** Community **
+**Community**
 Users join communities. Each community publishes a feed. Joining a community subscribes the user to that feed. User publishes "moments" to the community feed. Other users can comment on the moment.  Communities are multilingual and have built-in translation tools (useful for language learning). Communities support publishing audio and video. 
 
-** Video Storage ** Video can be stored on the user's local device (free), our cloud, or a third party service (youtube, etc) (free).
+**Video Storage** Video can be stored on the user's local device (free), our cloud, or a third party service (youtube, etc) (free).
