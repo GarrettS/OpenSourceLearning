@@ -15,7 +15,7 @@ Teachers don't have a platform to teach on.
 
 **Tutoring Websites:**
 
-* Teachers burdened by an expensive process. This process costs the company, too. The cost of operations impacts teachers' profit which ranges 60-80%, before tax. We can deliver better service with dispute resolution at a nominal 4% fee, resulting in a teacher takeaway of 96%. 
+* Teachers burdened by an expensive process. This process costs the company money and that impacts teachers' profit which ranges 60-80%, before tax. We can deliver better service with dispute resolution at a nominal 4% fee, resulting in a teacher takeaway of 96%. 
 
 * Teachers perfectly capable of teaching their subject of mastery are unqualified due to reasons like "no degree". The qualification process costs the teacher and the platform several hours.
 
