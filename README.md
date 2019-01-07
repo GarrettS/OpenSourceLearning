@@ -30,7 +30,7 @@ Teachers don't have a platform to teach on.
 Search & find: Learner searches google for learning material. Tutor link appears search results. Learner views the profile and its associated free material (embedded media, etc). Learner uses free tutorial information. 
  
 
-Learner completes profile to his own degree of satisfaction (u/p, everything else optional). 
+Learner completes profile to his own degree of satisfaction (u/p, everything else optional). User is automatically added to communities based on each subject of declared interest (Japanese Language, Guitar Building, Life Planning). They can unsubscribe at any time. 
 
 Learner enquires Teacher.
 
@@ -41,7 +41,7 @@ Learner books lesson with, pays from wallet, via website, to Teacher.
 Teacher receives payment after lesson is completed via the app. 
 
 ## User story: Join & Publish to a Community
-User automatically joins communities based on each subject of declared interest (Japanese Language, Guitar Building, Life Planning). Community feeds are displayed in the user's "Moments" tab. Users can unsubscribe from any community at any time. User can read, comment on, and create community posts for each community he belongs to.
+Community feeds displayed in the user's "Moments" tab can be filtered by feed and searched. User can read, comment, and create new moments for each community he belongs to.  Moments can have media (images and up to 60s video & audio). Users can purchase storage space to store media on our cloud.
 
 ** Lesson Features **
 
@@ -52,4 +52,6 @@ All lesson history appears in the Teacher and Learner pages.
 
 
 ** Community **
-Users join communities. Each community publishes a feed. Joining a community subscribes the user to that feed. User publishes moments to the community feed. Other users can comment on the moment. 
+Users join communities. Each community publishes a feed. Joining a community subscribes the user to that feed. User publishes "moments" to the community feed. Other users can comment on the moment.  Communities are multilingual and have built-in translation tools (useful for language learning). Communities support publishing audio and video. 
+
+** Video Storage ** Video can be stored on the user's local device (free), our cloud, or a third party service (youtube, etc) (free).
