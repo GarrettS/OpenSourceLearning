@@ -56,10 +56,23 @@
                 background-color: #FFF;
             }
 
+            section {
+                position: relative;
+            }
+
+            #profileIcon {
+                height: 40px;
+                width: 40px;
+                margin-top: -7px;
+            }
+
             #myProfile {
                 display: block;
                 right: 20px;
+                top: 0;
                 position: absolute;
+                overflow: hidden;
+                font-size: 0;
                 height: 40px;
                 width: 40px;
                 background: #fff;
@@ -72,19 +85,73 @@
             }
 
             #header {
-                background: #CCCCFF;
+                background: #EEDDCC;
                 height: 50px;
+                position: relative;
+            }
+
+            .header-links {
+                text-decoration: none;
+                font-weight: 700;
+                display: inline-block;
+                margin: 15px 0 0 12px;
+            }
+            #icon-notif {
+                height: 24px;
+                width: auto;
+                margin: -5px 0 -5px 10px;
+                width: auto;
+            }
+
+            #new-post {
+                height: 100px;
+                width: auto;
+                position: absolute;
+                right: 0;
+                top: 20px;
+            }
+
+            #searchForm {
+                display: inline-block;
+                position: relative;
+                top: 2px;
+                left: 5px;
+                font-size: 15px;
+            }
+            #search {
+                font-size: 14px;
+            }
+            #searchButton {
+                margin: 0;
+                top: -1px;
+                position: relative;
+                padding: 0;
+                height: 2.1em;
+                width: 2.1em;
+                background-color: rgba(255, 255, 255, 0.8);
             }
         </style>
     </head>
     <body>
-        <section id="header">
-            <a id="myProfile" href="./profile">profile</a>
+        <section id="header">            
+            <a id="followers" class="header-links" href="#followers">Followers</a>
+            <a id="following" class="header-links"  href="#following">Following</a>
+            <a id="myProfile" href="./profile"
+                ><img id="profileIcon" src="img/profile-pic.jpg" alt="profile"></a>
         </section>
+
+        <section id="main-learning">
+            <form id="searchForm">
+                <input type="text" id="search" name="search"
+                ><button id="searchButton" type="submit">🔎</button>
+            </form>
+            <img id="new-post" src="img/new-document.png"></a>
+        </section>
+
         <nav>
             <ul>
                 <li><a class="active" href="#open">Main</a>
-                <li><a href="#chats">Chat</a>
+                <li><a href="#chats">Chat<img id="icon-notif" src="img/notification-2-512.png"></a>
                 <li><a href="#give">Students</a>
                 <li><a href="#receive">Teachers</a>
                 <li><a href="#studio">Studio</a>
