@@ -45,11 +45,15 @@
                 color: #993311;
                 text-decoration: none;
                 font-weight: 600;
+                background-color: #EEDDCC;
                 border-left: 1px dotted #ccbbbb;
             }
 
             nav > ul > li> a:hover {
-                background-color: #EEDDCC;
+                background-color: #FFF9F3;
+            }
+            nav > ul > li> a.active {
+                background-color: #FFF;
             }
 
             #myProfile {
@@ -79,10 +83,10 @@
         </section>
         <nav>
             <ul>
-                <li><a href="#chats">Chats</a>
-                <li><a href="#give">My Students</a>
-                <li><a href="#receive">My Teachers</a>
-                <li><a href="#open">Open Area</a>
+                <li><a class="active" href="#open">Main</a>
+                <li><a href="#chats">Chat</a>
+                <li><a href="#give">Students</a>
+                <li><a href="#receive">Teachers</a>
                 <li><a href="#studio">Studio</a>
             </ul>
         </nav>
